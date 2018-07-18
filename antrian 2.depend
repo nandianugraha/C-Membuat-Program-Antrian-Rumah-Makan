@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496733922 source:c:\tugas praktek\semester 2\alprog\code block\antrian 2\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
